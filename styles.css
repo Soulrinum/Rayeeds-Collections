@@ -635,14 +635,14 @@ header {
   }
 
   .navigation a {
-    font-size: 0.1em;
+    font-size: 5px;
     justify-content: space-between;
     align-items: center;
-    margin-left: 15px;
+    margin-left: 3px;
   }
 
   nav {
-    font-size: 0.1em;
+    font-size: 5px em;
     justify-content: space-between;
     justify-items: center;
     align-items: center;
@@ -650,8 +650,8 @@ header {
   }
 
     .navigation .btnLogin-popup {
-    width: 45px;
-    height: 10px;
-    margin-left: 15px;
+    width: 20px;
+    height: 5px;
+    margin-left: 3px;
 }
 } 
