@@ -274,15 +274,17 @@ header {
 .login-register p a:hover {
   text-decoration: underline;
 }
+
  
 @media screen and (max-width: 1283px) {
   .logo {
   font-size: 1.9em;
   }
 
-  .navigation a {
+  nav {
     font-size: 1em;
-    margin-left: 35px;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .navigation .btnLogin-popup {
@@ -291,6 +293,7 @@ header {
   }
 }
 
+
 @media screen and (max-width: 1198px) {
   .logo {
   font-size: 1.8em;
@@ -298,7 +301,6 @@ header {
 
   nav {
     font-size: 0.9em;
-    margin-left: 30px;
   }
 
   .navigation .btnLogin-popup {
@@ -307,6 +309,7 @@ header {
   }
 }
 
+
 @media screen and (max-width: 1166px) {
   .logo {
   font-size: 1.7em;
@@ -314,7 +317,6 @@ header {
 
   nav {
     font-size: 0.8em;
-    margin-left: 30px;
   }
 
   .navigation .btnLogin-popup {
@@ -323,6 +325,7 @@ header {
 }
 }
 
+
 @media screen and (max-width: 1104px) {
   .logo {
   font-size: 1.6em;
@@ -330,7 +333,6 @@ header {
 
   nav {
     font-size: 0.7em;
-    margin-left: 25px;
   }
 
     .navigation .btnLogin-popup {
@@ -338,6 +340,7 @@ header {
     height: 30px;
 }
 }
+
 
 @media screen and (max-width: 1037px) {
   .logo {
@@ -346,7 +349,6 @@ header {
 
   nav {
     font-size: 0.6em;
-    margin-left: 20px;
   }
 
     .navigation .btnLogin-popup {
@@ -355,6 +357,7 @@ header {
 }
 } 
 
+
 @media screen and (max-width: 980px) {
   .logo {
   font-size: 1.4em;
@@ -362,7 +365,6 @@ header {
 
   nav {
     font-size: 0.5em;
-    margin-left: 15px;  
   }
 
     .navigation .btnLogin-popup {
@@ -372,7 +374,6 @@ header {
 } 
 
 
-
 @media screen and (max-width: 912px) {
   .logo {
   font-size: 1.3em;
@@ -380,7 +381,6 @@ header {
 
   nav {
     font-size: 0.4em;
-    margin-left: 10px;  
   }
 
     .navigation .btnLogin-popup {
@@ -389,6 +389,7 @@ header {
 }
 } 
 
+
 @media screen and (max-width: 845px) {
   .logo {
   font-size: 1.2em;
@@ -396,7 +397,6 @@ header {
 
   nav {
     font-size: 0.3em;
-    margin-left: 5px;  
   }
 
     .navigation .btnLogin-popup {
@@ -412,14 +412,14 @@ header {
 
   nav {
     font-size: 0.2em;
-    margin-left: 0px;  
   }
 
     .navigation .btnLogin-popup {
     width: 50px;
     height: 10px;
 }
-} 
+}  
+ 
 
 @media screen and (max-width: 775px) {
   .logo {
@@ -428,12 +428,10 @@ header {
 
   nav {
     font-size: 0.1em;
-    margin-left: -0.9px;  
   }
 
     .navigation .btnLogin-popup {
-    width: 50px;
-    height: 10px;
+    width: 45px;
+    height: 5px;
 }
 } 
-
