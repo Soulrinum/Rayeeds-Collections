@@ -635,14 +635,14 @@ header {
   }
 
   .navigation a {
-    font-size: 5px;
+    font-size: 2px;
     justify-content: space-between;
     align-items: center;
     margin-left: 3px;
   }
 
   nav {
-    font-size: 5px em;
+    font-size: 2px;
     justify-content: space-between;
     justify-items: center;
     align-items: center;
