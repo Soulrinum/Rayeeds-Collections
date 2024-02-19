@@ -301,6 +301,8 @@ header {
 
   nav {
     font-size: 0.9em;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .navigation .btnLogin-popup {
@@ -317,6 +319,8 @@ header {
 
   nav {
     font-size: 0.8em;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .navigation .btnLogin-popup {
@@ -333,6 +337,8 @@ header {
 
   nav {
     font-size: 0.7em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -349,6 +355,8 @@ header {
 
   nav {
     font-size: 0.6em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -365,6 +373,8 @@ header {
 
   nav {
     font-size: 0.5em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -381,6 +391,8 @@ header {
 
   nav {
     font-size: 0.4em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -397,6 +409,8 @@ header {
 
   nav {
     font-size: 0.3em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -412,6 +426,8 @@ header {
 
   nav {
     font-size: 0.2em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
@@ -428,6 +444,8 @@ header {
 
   nav {
     font-size: 0.1em;
+    justify-content: space-between;
+    align-items: center;
   }
 
     .navigation .btnLogin-popup {
